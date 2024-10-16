@@ -1,0 +1,11 @@
+## Interface: 110002
+## Author: Luaerror
+## Version: 0.1.0
+## Title: |cffff8000AutoMarker|r
+## Notes: Mythic dungeon auto marker
+## IconTexture: Interface\ICONS\Spell_Holy_Dispelmagic
+
+## X-Website: https://github.com/wow-lua/automarker
+## X-Maintainer: Luaerror
+
+init.xml
